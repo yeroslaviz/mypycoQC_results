@@ -1,0 +1,57 @@
+input file: QC/sequencing_summary_FAR52442_50fd1111.txt
+All reads:
+  total.gigabases: 11.6017796
+  total.reads: 22031517
+  N50.length: 737.0
+  mean.length: 526.6
+  median.length: 339.0
+  max.length: 775160.0
+  mean.q: 8.2
+  median.q: 8.3
+  reads:
+    '>10kb': 2379
+    '>20kb': 1296
+    '>50kb': 486
+    '>100kb': 191
+    '>200kb': 49
+    '>500kb': 4
+    '>1m': 0
+    ultralong: 837.0
+  gigabases:
+    '>10kb': 0.0953168
+    '>20kb': 0.0802317
+    '>50kb': 0.0550475
+    '>100kb': 0.0343926
+    '>200kb': 0.0152269
+    '>500kb': 0.0027653
+    '>1m': 0.0
+    ultralong: 0.0687793
+Q>=7:
+  total.gigabases: 8.3878736
+  total.reads: 15422049
+  N50.length: 759.0
+  mean.length: 543.9
+  median.length: 364.0
+  max.length: 176970.0
+  mean.q: 9.3
+  median.q: 9.2
+  reads:
+    '>10kb': 183
+    '>20kb': 80
+    '>50kb': 19
+    '>100kb': 6
+    '>200kb': 0
+    '>500kb': 0
+    '>1m': 0
+    ultralong: 20.0
+  gigabases:
+    '>10kb': 0.0050049
+    '>20kb': 0.0036633
+    '>50kb': 0.001746
+    '>100kb': 0.0008989
+    '>200kb': 0.0
+    '>500kb': 0.0
+    '>1m': 0.0
+    ultralong: 0.0017951
+notes: ultralong reads refers to the largest set of reads with N50>100KB
+
